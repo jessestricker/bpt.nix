@@ -1,5 +1,5 @@
 {
-  description = "A generic flake.nix template";
+  description = "A C++ Build System and Library Manager";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
